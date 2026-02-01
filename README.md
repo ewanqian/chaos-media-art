@@ -4,14 +4,14 @@
 
 ## 学术摘要
 
-混沌媒体艺术框架（Chaos Media Art Framework, CMAF）是一个跨学科的研究与创作平台，旨在探索复杂系统理论、生成艺术和偶然美学在当代数字媒体实践中的应用。该框架采用自相矛盾的系统设计方法，将看似对立的概念——秩序与混沌、控制与随机、意图与偶发——整合为统一的创作范式。
+混沌媒体艺术框架（Chaos Media Art Framework, CMAF）是一种反叛传统创作逻辑的实践体系，它将系统崩溃、协议错配、格式暴力等"故障"现象转化为创造性手段。该框架颠覆了艺术家作为控制者的传统角色，转而采用**参数设定**而非结果预设的创作方式。
 
-本框架基于**熵诗学 (Entropy Poetics)** 理论，提出了一套系统性的创作方法论，用于生成具有涌现性质的艺术作品。CMAF 不仅是一种美学实践，更是一种认识论工具，用于探索在高度结构化和算法化的当代社会中，非线性、不可预测性创作的价值与意义。
+本框架基于**熵诗学 (Entropy Poetics)** 理论，将错误、脆弱性、不可预测性从需要消除的"问题"重新定义为可供利用的"资源"。CMAF 提出了一种**反效率**的创作哲学，通过主动引入不确定性来探索艺术创作的新可能性。
 
 ## 项目简介
 
 混沌媒体艺术 | Chaos Media Art  
-面向算法、数据、网络无处不在的时代，帮助艺术家利用丰裕的混乱资源，创造超越秩序与无序对立的艺术作品 | A framework for artists to utilize abundant chaotic resources in the era of ubiquitous algorithms, data, and networks, creating artworks that transcend the opposition between order and chaos.
+一种将失控、错误、系统脆弱性作为创造性资源的艺术实践 | An artistic practice that treats loss of control, errors, and system fragility as creative resources.
 
 ## 核心术语表
 
