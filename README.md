@@ -10,9 +10,8 @@
 
 ## 项目简介
 
-混沌媒体艺术是一个为艺术家、设计师和任何对探索数字媒体中的混沌、随机和涌现秩序美学感兴趣的人提供的创作框架和工具集。它提供了一系列算法、软件工具和哲学指导原则，用于创作拥抱不可预测性、跨模态翻译和系统复杂性的艺术。
-
-本框架的核心是**熵诗学 (Entropy Poetics)** - 一种将混沌思维作为创作方法论的实践，而不是单纯追求"看起来混乱"的艺术形式。
+混沌媒体艺术 | Chaos Media Art  
+面向算法、数据、网络无处不在的时代，帮助艺术家利用丰裕的混乱资源，创造超越秩序与无序对立的艺术作品 | A framework for artists to utilize abundant chaotic resources in the era of ubiquitous algorithms, data, and networks, creating artworks that transcend the opposition between order and chaos.
 
 ## 核心术语表
 
